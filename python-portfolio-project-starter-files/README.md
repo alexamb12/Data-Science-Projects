@@ -1,9 +1,8 @@
-# README file
+# US Medical Insurance Costs Portfolio Project
 
-## US Medical Insurance Cost Portfolio Project
+Please refer to the **"Portfolio-Project-US-Medical-Insurance-Costs"** notebook for the complete project.
+The following project was documented using Jupyter Notebook. The data analysis was completed by utilizing Python libraries such as Pandas, Matplotlib, and Seaborn.
 
-The following project was completed using Jupyter Notebook. The data analysis was completed by utilizing Python libraries such as Pandas, Matplotlib, and Seaborn.
+Any feedback or contributions is highly encouraged. Thanks!
 
-Please refer to the "Portfolio-Project-US-Medical-Insurance-Costs" notebook for complete project.
-
-**Disregard us-medical-insurance-costs-script** 
+**Note: disregard us-medical-insurance-costs-script** 

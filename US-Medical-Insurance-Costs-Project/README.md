@@ -6,4 +6,4 @@ The following project was documented using Jupyter Notebook. The data analysis w
 
 Any feedback or contributions is highly encouraged. Thanks!
 
-**Note: disregard us-medical-insurance-costs-script** 
+*Note: disregard us-medical-insurance-costs-script*

@@ -28,4 +28,4 @@ These are common data science questions that are asked amongst business to gain 
 
 
 ## Feedback
-Any feedback or suggestions on how to make this project better are always welcomed. Feel free to send a pull request or contact me via [Instagram](https://www.instagram.com/alexatech_/)
+Any feedback or suggestions on how to make this project better are always welcomed. Feel free to send a pull request or contact me via [Instagram](https://www.instagram.com/alexatech_/) or [LinkedIn](https://www.linkedin.com/in/alexandriabaldizon/).

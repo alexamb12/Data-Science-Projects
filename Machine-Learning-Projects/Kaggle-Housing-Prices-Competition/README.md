@@ -10,6 +10,10 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ## Project File
 The project can be found in the `Kaggle-Housing-Prices-Competition.ipynb` jupyter notebook. I provide detailed explanations for my approach to the tasks and definitions for the terms used.
 
+## Setup 
+Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
+Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html <br/>
+Installing Sci-kit Learn Library: https://scikit-learn.org/stable/install.html <br/>
 # Overview
 This project provides a set of training data (`train.csv`) and data we will test our model on (`test.csv`). There is a `datadescription.txt` file that defines what all the variables in the data represent. I focus on these general steps:
 
